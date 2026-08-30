@@ -25,12 +25,12 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
-| [US-state-Game](https://github.com/AleezaCoding/US-state-Game) | Interactive US states quiz game | Python |
-| [Flash-Card-App](https://github.com/AleezaCoding/Flash-Card-App) | Flashcard learning app | Python |
-| [Mail-Merge-Project](https://github.com/AleezaCoding/Mail-Merge-Project) | Automated mail merge tool | Python |
-| [Miles.To.Kilometers.Project](https://github.com/AleezaCoding/Miles.To.Kilometers.Project) | Unit converter app | Python |
-| [Pomodoro_start](https://github.com/AleezaCoding/Pomodoro_start) | Pomodoro productivity timer | Python |
-| [Web-Foundation](https://github.com/AleezaCoding/Web-Foundation) | Foundational web project | HTML |
+| [US-state-Game](https://github.com/AleezaCore/US-state-Game) | Interactive US states quiz game | Python |
+| [Flash-Card-App](https://github.com/AleezaCore/Flash-Card-App) | Flashcard learning app | Python |
+| [Mail-Merge-Project](https://github.com/AleezaCore/Mail-Merge-Project) | Automated mail merge tool | Python |
+| [Miles.To.Kilometers.Project](https://github.com/AleezaCore/Miles.To.Kilometers.Project) | Unit converter app | Python |
+| [Pomodoro_start](https://github.com/AleezaCore/Pomodoro_start) | Pomodoro productivity timer | Python |
+| [Web-Foundation](https://github.com/AleezaCore/Web-Foundation) | Foundational web project | HTML |
 
 ---
 
@@ -45,17 +45,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleezaCore&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AleezaCore&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 ---
 
 ### 📫 Connect
+
 <p align="center">
   <a href="mailto:aleezarabeet426@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AleezaCoding&color=6AD5CB&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AleezaCore&color=6AD5CB&style=flat" alt="profile views"/>
 </p>
