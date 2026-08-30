@@ -36,8 +36,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=AleezaCore&theme=tokyonight&hide_border=true"/>
 </p>
