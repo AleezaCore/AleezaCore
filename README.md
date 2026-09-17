@@ -43,7 +43,7 @@ I'm a self-taught Python developer building real projects while learning by doin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=AleezaCore&theme=tokyonight&hide_border=true"/>
+ <img height="165" src="https://github-readme-stats.vercel.app/api?username=AleezaCore&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
