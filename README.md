@@ -40,14 +40,14 @@ I'm a self-taught Python developer building real projects while learning by doin
 | [Web Foundation](https://github.com/AleezaCore/Web-Foundation) | Hand-coded HTML/CSS practice project — semantic structure, headings, and styling fundamentals from scratch | HTML/CSS |
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=AleezaCore&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=AleezaCore&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
+
 
 ### 📫 Let's Connect
 
