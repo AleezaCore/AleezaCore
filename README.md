@@ -17,9 +17,9 @@
 
 ### 🧠 About Me
 
-I'm a self-taught Python developer building real projects while learning by doing. Currently deepening my skills in **cybersecurity** through TryHackMe, alongside completing my **BS in Psychology** — a combination that shapes how I approach problem-solving: analytically and with attention to human behavior.
+I'm a self-taught Python developer building real projects while learning by doing. Currently deepening my skills in **cybersecurity** through TryHackMe, alongside completing my **BS in Psychology** a combination that shapes how I approach problem-solving: analytically and with attention to human behavior.
 
-- 🐍 Building hands-on Python projects — from automation scripts to Flask web apps
+- 🐍 Building hands-on Python projects , from automation scripts to Flask web apps
 - 🔐 Learning cybersecurity fundamentals through TryHackMe
 - 📚 BS Psychology student, blending analytical and technical thinking
 - 📆 Documenting my daily coding journey under **#100DaysOfCode**
