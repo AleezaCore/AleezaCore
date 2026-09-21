@@ -17,9 +17,9 @@
 
 ### 🧠 About Me
 
-I'm a self-taught Python developer building real projects while learning by doing. Currently deepening my skills in **cybersecurity** through TryHackMe, alongside completing my **BS in Psychology** a combination that shapes how I approach problem-solving: analytically and with attention to human behavior.
+I'm a self-taught Python developer building real projects while learning by doing. Currently deepening my skills in **cybersecurity** through TryHackMe, alongside completing my **BS in Psychology** — a combination that shapes how I approach problem-solving: analytically and with attention to human behavior.
 
-- 🐍 Building hands-on Python projects , from automation scripts to Flask web apps
+- 🐍 Building hands-on Python projects, from automation scripts to Flask web apps
 - 🔐 Learning cybersecurity fundamentals through TryHackMe
 - 📚 BS Psychology student, blending analytical and technical thinking
 - 📆 Documenting my daily coding journey under **#100DaysOfCode**
@@ -40,14 +40,14 @@ I'm a self-taught Python developer building real projects while learning by doin
 | [Web Foundation](https://github.com/AleezaCore/Web-Foundation) | Hand-coded HTML/CSS practice project — semantic structure, headings, and styling fundamentals from scratch | HTML/CSS |
 
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
- <img height="165" src="https://github-readme-stats.vercel.app/api?username=AleezaCore&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AleezaCore&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
 
 ### 📫 Let's Connect
 
