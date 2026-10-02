@@ -31,13 +31,13 @@ I'm a self-taught Python developer building real projects while learning by doin
 
 | Project | Description | Tech |
 |---|---|---|
-| [Flask Blog Contact Form](https://github.com/AleezaCore/flask-blog-contact-form) | Bootstrap-styled blog with a working contact form — captures visitor input via Flask and sends email notifications via SMTP | Python, Flask |
-| [US State Game](https://github.com/AleezaCore/US-state-Game) | Type a U.S. state name to guess its location on a blank map — tracks correct guesses until all 50 are found | Python |
+| [Flask Blog Contact Form](https://github.com/AleezaCore/flask-blog-contact-form) | Bootstrap-styled blog with a working contact form  captures visitor input via Flask and sends email notifications via SMTP | Python, Flask |
+| [US State Game](https://github.com/AleezaCore/US-state-Game) | Type a U.S. state name to guess its location on a blank map  tracks correct guesses until all 50 are found | Python |
 | [Flash Card App](https://github.com/AleezaCore/Flash-Card-App) | Tkinter flashcard app that cycles through French vocabulary, flips cards on click, and tracks known/unknown words to file | Python |
-| [Mail Merge Project](https://github.com/AleezaCore/Mail-Merge-Project) | Reads names from a text file and auto-generates personalized letters from a template — bulk mail merge without manual copy-paste | Python |
-| [Miles to Kilometers Converter](https://github.com/AleezaCore/Miles.To.Kilometers.Project) | Tkinter GUI converter — enter miles, get instant km conversion via a clean grid layout | Python |
+| [Mail Merge Project](https://github.com/AleezaCore/Mail-Merge-Project) | Reads names from a text file and auto-generates personalized letters from a template  bulk mail merge without manual copy-paste | Python |
+| [Miles to Kilometers Converter](https://github.com/AleezaCore/Miles.To.Kilometers.Project) | Tkinter GUI converter enter miles, get instant km conversion via a clean grid layout | Python |
 | [Pomodoro Timer](https://github.com/AleezaCore/Pomodoro_start) | Tkinter Pomodoro timer with work/short-break/long-break cycles, live countdown, and session tracking | Python |
-| [Web Foundation](https://github.com/AleezaCore/Web-Foundation) | Hand-coded HTML/CSS practice project — semantic structure, headings, and styling fundamentals from scratch | HTML/CSS |
+| [Web Foundation](https://github.com/AleezaCore/Web-Foundation) | Hand-coded HTML/CSS practice project  semantic structure, headings, and styling fundamentals from scratch | HTML/CSS |
 
 ---
 
