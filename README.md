@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aleeza Rabeet🎀👋</h1>
-<h3 align="center">Python Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Python Developer | Cybersecurity Enthusiast | Lifelong Learner </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6AD5CB&center=true&vCenter=true&width=500&lines=Python+Developer+in+Progress+%F0%9F%90%8D;Learning+Cybersecurity+via+TryHackMe+%F0%9F%94%90;Documenting+%23100DaysOfCode+%F0%9F%93%9D" alt="Typing SVG" />
